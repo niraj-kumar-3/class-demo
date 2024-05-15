@@ -1,4 +1,4 @@
 # class-demo
 this is my frist git demo
 <br>
-Author - Niraj kumar 
+Author - Niraj kumar pandit
